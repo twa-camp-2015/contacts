@@ -22,6 +22,8 @@ Full Name | GitHub Link
 周奕星 | https://github.com/sialvsic
 李昱 | https://github.com/Evan-Leee
 刘烨 | https://github.com/Liuye012
+史丹迪 | https://github.com/Supersdd
+王玥 | https://github.com/WY08271
 
 ## 成都
 
