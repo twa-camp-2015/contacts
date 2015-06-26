@@ -24,6 +24,8 @@ Full Name | GitHub Link
 刘烨 | https://github.com/Liuye012
 史丹迪 | https://github.com/Supersdd
 王玥 | https://github.com/WY08271
+孙恬静 | https://github.com/purpletianjing
+张胜梅 | https://github.com/flary
 
 ## 成都
 
