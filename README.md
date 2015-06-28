@@ -7,7 +7,7 @@ Full Name | GitHub Link
 施采强 | https://github.com/scq000
 赵少翌 | https://github.com/simpletrain
 宋建华 | https://github.com/songjianhua2012
-王风珠 | https://github.com/carolieF
+王风珠 | https://github.com/carolineF
 潘晨 | https://github.com/SherryPann
 王小龙 | https://github.com/XiaoLongW
 李丹阳 | https://github.com/ldyyukito
