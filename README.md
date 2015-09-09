@@ -28,6 +28,19 @@ Full Name | GitHub Link
 孙恬静 | https://github.com/purpletianjing
 杨林 | https://github.com/anlin-yang
 
+
+Full Name | GitHub Link
+--------- | -----------
+翁娇娇 | https://github.com/wengjiaojiao
+王旭彤 | https://github.com/Lucky-LengYi
+罗晶辉 | https://github.com/luojinghui
+马铭 | https://github.com/mmmaming
+刘磊 | https://github.com/Emon0526
+王利涛 | https://github.com/Springwlt
+刘玉田 | https://github.com/LiuYutian
+邓志阳 | https://github.com/dhxyyz
+
+
 ## 成都
 
 Full Name | GitHub Link
